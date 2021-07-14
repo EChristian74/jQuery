@@ -20,10 +20,10 @@ Installations
 Projects
 
 * JQUERY DEMO EXERCISE: Followed along with instructor to build and execute practices exercises using the CSS, click, and hide.
-* Submitted 6/15/2021
+* Submitted 7/13/2021
 
 * JQUERY CHALLENGE:  Independent exercises using the jQuery event and effect. 
-* Submitted 6/15/2021
+* Submitted 7/13/2021
 
 Authors
 Eric C. Boland
