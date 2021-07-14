@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	</head>
+	
+	<body>
+		<script>
+		$(document).ready(function(){  // Function that enables for the changing of our HTML usng jQuery
+			$("html").append(  // Simply specified that the changes made are to the HTML within the <body>
+				"<body>\
+					<div id='container'>\
+						<div id='inner'>\
+							<h1>This is a heading</h1>\
+							<p>This is a paragraph</p>\
+							<button>This is a button</button>\
+						</div>\
+					</div>\
+				</body>"  
+			);
+			$("h1, p, button").click(function(event){  // Function that assigns a dynamic click function to the header, paragraph, and button that calls the below statement
+			$("div").html("You have selected " + event.target.nodeName + " element.");  //Declares and calls the statement that is displayed once any of the header, paragraph or button elements are clicked
+			});
+    	});
+    </script>
+	</body> 	
+</html>

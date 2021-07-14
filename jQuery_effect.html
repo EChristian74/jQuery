@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	</head>
+	
+	<body>
+		<script>
+		$(document).ready(function(){  // Function that enables for the changing of our HTML usng jQuery
+			$("html").append(  // Simply specifies that the changes made are to the HTML within the <body>
+				"<body>\
+					<div id='container'>\
+						<div id='inner'>\
+                            <p>supercalifragilisticexpialidocious</p>\
+							<button>Toggle to hide or show the secret code word</button>\
+						</div>\
+					</div>\
+				</body>"  
+			);
+			$("button").click(function(){  // Function that assigns a dynamic click function to button to hide or reveal secret code word
+			$("p").toggle();  // Executes the hiding or showing of the secret code word once the button is clicked
+			});
+    	});
+    </script>
+	</body> 	
+</html>  
