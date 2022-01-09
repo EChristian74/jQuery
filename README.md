@@ -2,32 +2,41 @@
 
 The purpose of this repository for display of jQuery projects that I completed during my attendance at The Tech Academy.
 
-Dependencies
-* Windows 10 OS
-* HTML5
-* CSS
-* GitHub Desktop
-* Visual Studio Code
-* https://jquery.com/
+
+## Dependencies
+
+* [Windows 10 OS](https://www.microsoft.com/en-us/software-download/)
+* [HTML5](https://www.microsoft.com/en-us/p/html5-css-php-javascript/9nblggh08ltm?activetab=pivot:overviewtab)
+* [CSS](https://www.microsoft.com/en-us/software-download/)
+* [JavaScript](https://www.microsoft.com/en-us/software-download/)
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/download/)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [jQuery](https://jquery.com/)
 
 
-Installations
-* Git Bash
-* GitHub Desktop
-* Visual Studio Code
+## Details by Assignment
 
 
-Projects
+### jQuery Demo Exercise: 
 
-* JQUERY DEMO EXERCISE: Followed along with instructor to build and execute practices exercises using the CSS, click, and hide.
+* Followed along with instructor to build and execute practices exercises using the CSS, click, and hide.
 * Submitted 7/13/2021
 
-* JQUERY CHALLENGE:  Independent exercises using the jQuery event and effect. 
+### jQuery Challenge:  
+
+* Independent exercises using the jQuery event and effect. 
 * Submitted 7/13/2021
 
-Authors
-Eric C. Boland
-* GitHub:@EChristian74
-* LinkedIn:https://www.linkedin.com/in/christianmethodical/
-* Email:christianmethodical@gmail.com 
+
+## Author: Eric C. Boland
+
+### Links:
+
+* GitHub: <https://github.com/EChristian74>
+* LinkedIn: <https://www.linkedin.com/in/christianmethodical/>
+* Email: <christianmethodical@gmail.com>
+
+Jump to: [Page Top](#jQuery)
+
+
 
